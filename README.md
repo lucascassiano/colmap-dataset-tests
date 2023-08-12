@@ -1,0 +1,2 @@
+# colmap-dataset-tests
+[PUBLIC]
